@@ -1,8 +1,3 @@
-# 🚀 Durgesh Giri — GitHub Profile README
-
-> Click the **Copy** button on the top right of this document or code block to paste it directly into your GitHub `README.md`!
-
-```markdown
 <div align="center">
 
 <!-- ======================================================== -->
@@ -34,14 +29,18 @@
   </a>
   &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-SOLVE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GFG_STREAK-233_DAYS_%F0%9F%94%A5-FF4500?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG 233 Days Streak" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-506%2B%20SOLVED-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
   &nbsp;
   <a href="https://github.com/durg-giri123" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:durgeshgiri.dev@gmail.com">
+  <a href="mailto:dg0504445@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -106,13 +105,9 @@ const durgesh = {
 
 <br/>
 
-<!-- LIVE GITHUB CONTRIBUTION GRAPH & ANIMATED MOVING SNAKE -->
+<!-- ANIMATED MOVING SNAKE CONTRIBUTION GRID -->
 <div align="center">
-  <p><b>🐍 Animated Contribution Snake &amp; Activity</b></p>
   <img src="https://raw.githubusercontent.com/durg-giri123/durg-giri123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-  <br/><br/>
-  <p><b>🌱 GitHub Live Contributions Calendar</b></p>
-  <img src="https://ghchart.rshah.org/2dd4bf/durg-giri123" alt="Durgesh Giri Contribution Activity" width="100%" />
   <br/><br/>
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=durg-giri123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -515,7 +510,7 @@ A comprehensive sports analytics engine delivering live ball-by-ball match telem
   </a>
   &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-506%2B%20SOLVED-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
   </a>
   &nbsp;
   <a href="https://github.com/durg-giri123" target="_blank">
@@ -527,6 +522,31 @@ A comprehensive sports analytics engine delivering live ball-by-ball match telem
 <p align="center">
   <a href="https://leetcode.com/u/durggiri/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/durggiri?ext=heatmap&theme=dark" alt="LeetCode Live Stats & 52-Week Heatmap" width="85%" />
+  </a>
+</p>
+
+<!-- GEEKSFORGEEKS DEDICATED STREAK & STATS SHOWCASE -->
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0b1120,100:14532d&height=120&text=%F0%9F%94%A5%20GeeksforGeeks%20Streak:%20233%20Days%20Consistency&fontSize=24&fontAlign=50&fontAlignY=38&desc=506%2B%20Problems%20Solved%20%E2%80%A2%20Coding%20Score%202065%20%E2%80%A2%20Galgotias%20University%20Rank%20%2354&descAlign=50&descAlignY=70" width="85%" alt="GeeksforGeeks 233 Days Streak Banner" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
+    <img src="https://img.shields.io/badge/CURRENT_STREAK-233_DAYS_%F0%9F%94%A5-FF4500?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="38" alt="GFG Streak 233 Days" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
+    <img src="https://img.shields.io/badge/PROBLEMS_SOLVED-506%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="38" alt="GFG Solved" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
+    <img src="https://img.shields.io/badge/CODING_SCORE-2065-0284c7?style=for-the-badge&logo=target&logoColor=white" height="38" alt="Coding Score" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
+    <img src="https://img.shields.io/badge/COLLEGE_RANK-%2354-f59e0b?style=for-the-badge&logo=academia&logoColor=black" height="38" alt="Institute Rank" />
   </a>
 </p>
 
@@ -551,13 +571,13 @@ A comprehensive sports analytics engine delivering live ball-by-ball match telem
 
 ```text
 ┌──────────────────────────────┐
-│      🎯 Domains Mastered     │
+│    🌿 GeeksforGeeks Stats    │
 ├──────────────────────────────┤
-│  Data Structures & Arrays :✅ │
-│  Trees, Graphs & BFS/DFS :✅ │
-│  Dynamic Programming (DP):✅ │
-│  Binary Search & 2-Ptr   :✅ │
-│  Recursion & Backtracking:✅ │
+│  Current Streak  : 233 Days🔥│
+│  Problems Solved : 506+      │
+│  Coding Score    : 2,065     │
+│  Institute Rank  : #54 (GU)  │
+│  POTD Solved     : 293+      │
 └──────────────────────────────┘
 ```
 
@@ -566,13 +586,13 @@ A comprehensive sports analytics engine delivering live ball-by-ball match telem
 
 ```text
 ┌──────────────────────────────┐
-│   🌿 GeeksforGeeks Profile   │
+│     🎯 Combined Milestones   │
 ├──────────────────────────────┤
-│  Handle  : @dg050tg7f        │
-│  Campus  : Galgotias Univ    │
-│  Focus   : DSA & Core CS     │
-│  Streaks : Active Solver     │
-│  Status  : Verified Profile  │
+│  Total Solved    : 1,170+    │
+│  LeetCode        : 670+      │
+│  GeeksforGeeks   : 506+      │
+│  Current Streak  : 233 Days🔥│
+│  Consistency     : Active    │
 └──────────────────────────────┘
 ```
 
@@ -592,4 +612,3 @@ A comprehensive sports analytics engine delivering live ball-by-ball match telem
   <p>⭐ Designed with precision • Open to collaborative AI/ML & Software Engineering opportunities</p>
   <p>© 2026 Durgesh Giri</p>
 </div>
-```
