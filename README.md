@@ -20,6 +20,10 @@
 <!-- CONNECT & SOCIAL LINKS                                   -->
 <!-- ======================================================== -->
 <p align="center">
+  <a href="https://durgeshgiri.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_WEBSITE-00F0FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/durgeshgiri" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -34,6 +38,10 @@
   &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
     <img src="https://img.shields.io/badge/GEEKSFORGEEKS-506%2B%20SOLVED-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/durggiri" target="_blank">
+    <img src="https://img.shields.io/badge/CODEFORCES-DURGGIRI-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   &nbsp;
   <a href="https://github.com/durg-giri123" target="_blank">
@@ -64,9 +72,9 @@ const durgesh = {
   name              : "Durgesh Giri",
   role              : "AI/ML Engineer & Researcher",
   education         : "B.Tech CSE @ Galgotias University",
-  research          : "Research Intern @ IIT Mandi (Biosignal EEG & HRV Analytics)",
+  research          : "Research Intern @ IIT Mandi",
   specialization    : [
-    "Biosignal Processing & Neuroanalytics (Muse EEG & EmotiBit)",
+    "Signal Processing & Spectral Analytics (Muse EEG & EmotiBit)",
     "Computer Vision & Deep Learning (ResNet, CNN)",
     "Generative AI & RAG Pipelines (LangChain, Gemini)"
   ],
@@ -78,7 +86,8 @@ const durgesh = {
     "Cross-Modal Neural & Physiological Response Integration"
   ],
 
-  problemSolving    : "Active on LeetCode (670+ Solved) & GeeksforGeeks",
+  portfolio         : "https://durgeshgiri.netlify.app/",
+  problemSolving    : "LeetCode (670+) • GFG (506+, 233d🔥) • Codeforces",
   motto             : "Ship fast. Think deep. Build for impact."
 };
 ```
@@ -90,12 +99,13 @@ const durgesh = {
 ┌──────────────────────────────────────────────┐
 │  🏛️  Galgotias University • B.Tech CSE       │
 │  🔬  Research Intern @ IIT Mandi             │
+│  🌐  Live Portfolio: durgeshgiri.netlify.app │
 │  🧠  Biosignal Processing: EEG (4 Channels)  │
 │  💓  Physiological HRV: RMSSD, SDNN & RR     │
 │  📊  Repeated-Measures Statistical Analysis   │
 │  👁️  Computer Vision: ResNet, CNN, OpenCV    │
 │  🤖  Generative AI: Gemini API & LangChain   │
-│  💡  Active LeetCode (670+) & GFG Solver     │
+│  💡  LeetCode (670+) • GFG (233d🔥) • CF     │
 └──────────────────────────────────────────────┘
 ```
 
@@ -511,6 +521,10 @@ A comprehensive sports analytics engine delivering live ball-by-ball match telem
   &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/dg050tg7f" target="_blank">
     <img src="https://img.shields.io/badge/GEEKSFORGEEKS-506%2B%20SOLVED-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/durggiri" target="_blank">
+    <img src="https://img.shields.io/badge/CODEFORCES-DURGGIRI-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
   &nbsp;
   <a href="https://github.com/durg-giri123" target="_blank">
